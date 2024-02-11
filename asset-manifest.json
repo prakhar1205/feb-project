@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feb-project/static/css/main.d15cf42f.css",
+    "main.js": "/feb-project/static/js/main.75426a5b.js",
+    "static/js/592.d00c38c9.chunk.js": "/feb-project/static/js/592.d00c38c9.chunk.js",
+    "index.html": "/feb-project/index.html",
+    "main.d15cf42f.css.map": "/feb-project/static/css/main.d15cf42f.css.map",
+    "main.75426a5b.js.map": "/feb-project/static/js/main.75426a5b.js.map",
+    "592.d00c38c9.chunk.js.map": "/feb-project/static/js/592.d00c38c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15cf42f.css",
+    "static/js/main.75426a5b.js"
+  ]
+}
